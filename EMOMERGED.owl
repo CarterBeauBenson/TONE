@@ -13113,7 +13113,7 @@ recognition of the meaning of the utterance through their knowledge of the langu
                                                                                  "nag"^^rdfs:Literal ,
                                                                                  "nuisance"^^rdfs:Literal ,
                                                                                  "pain"^^rdfs:Literal ,
-                                                                                 "persecution"rdfs:Literal ,
+                                                                                 "persecution"^^rdfs:Literal ,
                                                                                  "pest"^^rdfs:Literal ,
                                                                                  "plague"^^rdfs:Literal ,
                                                                                  "provocation"^^rdfs:Literal ,
